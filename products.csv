@@ -1,0 +1,501 @@
+sku,category,subcategory,supplier
+SKU0001,Household,A,Supplier1
+SKU0002,Snacks,B,Supplier3
+SKU0003,Personal Care,B,Supplier3
+SKU0004,Snacks,A,Supplier3
+SKU0005,Snacks,C,Supplier1
+SKU0006,Beverage,B,Supplier2
+SKU0007,Personal Care,B,Supplier1
+SKU0008,Personal Care,B,Supplier2
+SKU0009,Personal Care,A,Supplier3
+SKU0010,Snacks,D,Supplier3
+SKU0011,Household,B,Supplier1
+SKU0012,Personal Care,D,Supplier1
+SKU0013,Dairy,C,Supplier2
+SKU0014,Snacks,B,Supplier2
+SKU0015,Beverage,B,Supplier1
+SKU0016,Household,C,Supplier2
+SKU0017,Dairy,B,Supplier1
+SKU0018,Dairy,D,Supplier2
+SKU0019,Beverage,A,Supplier1
+SKU0020,Household,D,Supplier1
+SKU0021,Snacks,A,Supplier1
+SKU0022,Food,A,Supplier2
+SKU0023,Household,D,Supplier2
+SKU0024,Beverage,D,Supplier2
+SKU0025,Dairy,D,Supplier1
+SKU0026,Snacks,D,Supplier2
+SKU0027,Household,C,Supplier2
+SKU0028,Food,B,Supplier1
+SKU0029,Food,A,Supplier3
+SKU0030,Personal Care,D,Supplier1
+SKU0031,Personal Care,D,Supplier2
+SKU0032,Beverage,D,Supplier1
+SKU0033,Household,C,Supplier3
+SKU0034,Household,D,Supplier1
+SKU0035,Dairy,D,Supplier2
+SKU0036,Dairy,D,Supplier3
+SKU0037,Dairy,B,Supplier2
+SKU0038,Personal Care,C,Supplier3
+SKU0039,Household,D,Supplier3
+SKU0040,Household,A,Supplier1
+SKU0041,Food,A,Supplier1
+SKU0042,Personal Care,A,Supplier2
+SKU0043,Snacks,C,Supplier1
+SKU0044,Personal Care,C,Supplier1
+SKU0045,Snacks,A,Supplier3
+SKU0046,Food,D,Supplier1
+SKU0047,Beverage,C,Supplier3
+SKU0048,Household,A,Supplier3
+SKU0049,Food,A,Supplier3
+SKU0050,Household,D,Supplier2
+SKU0051,Dairy,B,Supplier2
+SKU0052,Beverage,C,Supplier2
+SKU0053,Beverage,D,Supplier3
+SKU0054,Food,A,Supplier2
+SKU0055,Beverage,A,Supplier2
+SKU0056,Snacks,D,Supplier1
+SKU0057,Beverage,C,Supplier2
+SKU0058,Household,B,Supplier2
+SKU0059,Household,B,Supplier3
+SKU0060,Household,A,Supplier3
+SKU0061,Household,C,Supplier3
+SKU0062,Snacks,B,Supplier3
+SKU0063,Personal Care,C,Supplier3
+SKU0064,Dairy,C,Supplier3
+SKU0065,Food,A,Supplier2
+SKU0066,Household,B,Supplier3
+SKU0067,Beverage,D,Supplier3
+SKU0068,Household,A,Supplier1
+SKU0069,Beverage,B,Supplier2
+SKU0070,Dairy,B,Supplier2
+SKU0071,Dairy,B,Supplier2
+SKU0072,Dairy,B,Supplier3
+SKU0073,Beverage,B,Supplier3
+SKU0074,Household,C,Supplier3
+SKU0075,Dairy,A,Supplier1
+SKU0076,Snacks,C,Supplier3
+SKU0077,Beverage,D,Supplier1
+SKU0078,Beverage,B,Supplier2
+SKU0079,Household,A,Supplier3
+SKU0080,Beverage,B,Supplier1
+SKU0081,Beverage,A,Supplier1
+SKU0082,Dairy,C,Supplier3
+SKU0083,Household,A,Supplier2
+SKU0084,Dairy,D,Supplier2
+SKU0085,Dairy,D,Supplier2
+SKU0086,Household,A,Supplier1
+SKU0087,Food,A,Supplier1
+SKU0088,Dairy,A,Supplier1
+SKU0089,Snacks,A,Supplier1
+SKU0090,Snacks,D,Supplier2
+SKU0091,Beverage,B,Supplier3
+SKU0092,Snacks,A,Supplier1
+SKU0093,Beverage,A,Supplier1
+SKU0094,Food,D,Supplier2
+SKU0095,Household,D,Supplier3
+SKU0096,Household,C,Supplier3
+SKU0097,Household,A,Supplier2
+SKU0098,Snacks,C,Supplier2
+SKU0099,Food,D,Supplier3
+SKU0100,Snacks,D,Supplier1
+SKU0101,Snacks,B,Supplier3
+SKU0102,Food,A,Supplier2
+SKU0103,Food,C,Supplier1
+SKU0104,Food,D,Supplier1
+SKU0105,Food,D,Supplier2
+SKU0106,Household,C,Supplier2
+SKU0107,Personal Care,B,Supplier2
+SKU0108,Personal Care,D,Supplier3
+SKU0109,Food,A,Supplier3
+SKU0110,Personal Care,D,Supplier1
+SKU0111,Personal Care,A,Supplier2
+SKU0112,Food,C,Supplier1
+SKU0113,Personal Care,A,Supplier1
+SKU0114,Snacks,C,Supplier1
+SKU0115,Beverage,A,Supplier1
+SKU0116,Beverage,C,Supplier2
+SKU0117,Food,A,Supplier1
+SKU0118,Household,B,Supplier2
+SKU0119,Food,A,Supplier2
+SKU0120,Household,A,Supplier3
+SKU0121,Beverage,B,Supplier2
+SKU0122,Food,D,Supplier3
+SKU0123,Dairy,D,Supplier2
+SKU0124,Snacks,A,Supplier2
+SKU0125,Personal Care,B,Supplier2
+SKU0126,Household,A,Supplier3
+SKU0127,Dairy,C,Supplier3
+SKU0128,Personal Care,C,Supplier1
+SKU0129,Personal Care,A,Supplier3
+SKU0130,Food,D,Supplier3
+SKU0131,Personal Care,D,Supplier3
+SKU0132,Snacks,A,Supplier3
+SKU0133,Dairy,A,Supplier1
+SKU0134,Personal Care,C,Supplier3
+SKU0135,Food,D,Supplier2
+SKU0136,Snacks,A,Supplier2
+SKU0137,Beverage,C,Supplier3
+SKU0138,Dairy,D,Supplier3
+SKU0139,Personal Care,B,Supplier2
+SKU0140,Food,C,Supplier2
+SKU0141,Beverage,D,Supplier1
+SKU0142,Beverage,D,Supplier2
+SKU0143,Household,C,Supplier2
+SKU0144,Snacks,B,Supplier3
+SKU0145,Personal Care,C,Supplier2
+SKU0146,Food,D,Supplier1
+SKU0147,Household,A,Supplier2
+SKU0148,Snacks,A,Supplier3
+SKU0149,Household,C,Supplier3
+SKU0150,Dairy,D,Supplier2
+SKU0151,Snacks,A,Supplier3
+SKU0152,Snacks,D,Supplier1
+SKU0153,Personal Care,C,Supplier1
+SKU0154,Snacks,A,Supplier2
+SKU0155,Household,D,Supplier2
+SKU0156,Snacks,A,Supplier2
+SKU0157,Personal Care,C,Supplier3
+SKU0158,Personal Care,D,Supplier1
+SKU0159,Dairy,A,Supplier1
+SKU0160,Household,C,Supplier3
+SKU0161,Beverage,A,Supplier1
+SKU0162,Beverage,A,Supplier2
+SKU0163,Snacks,B,Supplier2
+SKU0164,Dairy,B,Supplier2
+SKU0165,Food,C,Supplier1
+SKU0166,Snacks,B,Supplier2
+SKU0167,Dairy,C,Supplier3
+SKU0168,Household,B,Supplier3
+SKU0169,Household,A,Supplier1
+SKU0170,Household,C,Supplier3
+SKU0171,Household,C,Supplier3
+SKU0172,Household,A,Supplier1
+SKU0173,Dairy,C,Supplier2
+SKU0174,Dairy,C,Supplier2
+SKU0175,Personal Care,B,Supplier2
+SKU0176,Beverage,C,Supplier1
+SKU0177,Household,D,Supplier3
+SKU0178,Food,A,Supplier2
+SKU0179,Dairy,B,Supplier2
+SKU0180,Food,B,Supplier1
+SKU0181,Food,D,Supplier2
+SKU0182,Food,A,Supplier1
+SKU0183,Personal Care,A,Supplier3
+SKU0184,Dairy,B,Supplier1
+SKU0185,Food,C,Supplier1
+SKU0186,Household,B,Supplier1
+SKU0187,Snacks,A,Supplier1
+SKU0188,Food,D,Supplier3
+SKU0189,Personal Care,B,Supplier3
+SKU0190,Dairy,A,Supplier2
+SKU0191,Personal Care,B,Supplier3
+SKU0192,Food,C,Supplier3
+SKU0193,Dairy,B,Supplier2
+SKU0194,Snacks,B,Supplier3
+SKU0195,Food,A,Supplier1
+SKU0196,Personal Care,A,Supplier1
+SKU0197,Beverage,A,Supplier2
+SKU0198,Household,B,Supplier2
+SKU0199,Personal Care,C,Supplier2
+SKU0200,Dairy,D,Supplier1
+SKU0201,Food,D,Supplier3
+SKU0202,Household,A,Supplier1
+SKU0203,Food,A,Supplier2
+SKU0204,Dairy,B,Supplier3
+SKU0205,Food,D,Supplier3
+SKU0206,Beverage,A,Supplier1
+SKU0207,Household,C,Supplier2
+SKU0208,Household,C,Supplier1
+SKU0209,Dairy,A,Supplier3
+SKU0210,Beverage,A,Supplier1
+SKU0211,Personal Care,D,Supplier1
+SKU0212,Food,D,Supplier2
+SKU0213,Snacks,B,Supplier2
+SKU0214,Food,D,Supplier3
+SKU0215,Food,C,Supplier1
+SKU0216,Personal Care,C,Supplier1
+SKU0217,Food,A,Supplier1
+SKU0218,Beverage,D,Supplier3
+SKU0219,Beverage,B,Supplier3
+SKU0220,Household,C,Supplier2
+SKU0221,Dairy,C,Supplier2
+SKU0222,Snacks,B,Supplier2
+SKU0223,Food,B,Supplier1
+SKU0224,Food,C,Supplier1
+SKU0225,Personal Care,C,Supplier2
+SKU0226,Dairy,B,Supplier1
+SKU0227,Beverage,C,Supplier2
+SKU0228,Snacks,A,Supplier3
+SKU0229,Household,A,Supplier2
+SKU0230,Beverage,B,Supplier3
+SKU0231,Dairy,D,Supplier1
+SKU0232,Household,B,Supplier2
+SKU0233,Personal Care,B,Supplier1
+SKU0234,Personal Care,D,Supplier3
+SKU0235,Food,D,Supplier3
+SKU0236,Dairy,D,Supplier3
+SKU0237,Snacks,A,Supplier1
+SKU0238,Household,C,Supplier1
+SKU0239,Beverage,A,Supplier1
+SKU0240,Dairy,C,Supplier1
+SKU0241,Dairy,A,Supplier3
+SKU0242,Personal Care,C,Supplier3
+SKU0243,Food,A,Supplier2
+SKU0244,Food,D,Supplier2
+SKU0245,Household,B,Supplier1
+SKU0246,Personal Care,A,Supplier3
+SKU0247,Dairy,C,Supplier3
+SKU0248,Snacks,D,Supplier3
+SKU0249,Personal Care,A,Supplier2
+SKU0250,Household,A,Supplier2
+SKU0251,Household,D,Supplier3
+SKU0252,Personal Care,A,Supplier3
+SKU0253,Household,B,Supplier3
+SKU0254,Personal Care,A,Supplier2
+SKU0255,Beverage,B,Supplier3
+SKU0256,Personal Care,B,Supplier3
+SKU0257,Personal Care,D,Supplier1
+SKU0258,Household,A,Supplier1
+SKU0259,Household,D,Supplier2
+SKU0260,Food,A,Supplier3
+SKU0261,Food,A,Supplier3
+SKU0262,Beverage,C,Supplier1
+SKU0263,Food,A,Supplier2
+SKU0264,Personal Care,D,Supplier1
+SKU0265,Household,B,Supplier1
+SKU0266,Food,A,Supplier1
+SKU0267,Food,C,Supplier1
+SKU0268,Beverage,D,Supplier3
+SKU0269,Dairy,A,Supplier3
+SKU0270,Beverage,D,Supplier1
+SKU0271,Personal Care,C,Supplier2
+SKU0272,Household,C,Supplier2
+SKU0273,Beverage,D,Supplier2
+SKU0274,Food,A,Supplier2
+SKU0275,Household,B,Supplier1
+SKU0276,Household,C,Supplier3
+SKU0277,Food,A,Supplier2
+SKU0278,Beverage,A,Supplier1
+SKU0279,Food,B,Supplier2
+SKU0280,Dairy,C,Supplier2
+SKU0281,Household,C,Supplier1
+SKU0282,Snacks,A,Supplier3
+SKU0283,Snacks,A,Supplier3
+SKU0284,Personal Care,B,Supplier1
+SKU0285,Food,B,Supplier3
+SKU0286,Food,C,Supplier1
+SKU0287,Personal Care,D,Supplier1
+SKU0288,Personal Care,C,Supplier1
+SKU0289,Personal Care,A,Supplier3
+SKU0290,Household,C,Supplier1
+SKU0291,Dairy,D,Supplier2
+SKU0292,Food,B,Supplier3
+SKU0293,Household,D,Supplier3
+SKU0294,Personal Care,D,Supplier3
+SKU0295,Food,D,Supplier3
+SKU0296,Household,B,Supplier2
+SKU0297,Dairy,D,Supplier3
+SKU0298,Household,D,Supplier3
+SKU0299,Dairy,D,Supplier1
+SKU0300,Personal Care,A,Supplier3
+SKU0301,Dairy,D,Supplier2
+SKU0302,Food,B,Supplier2
+SKU0303,Personal Care,D,Supplier2
+SKU0304,Food,D,Supplier2
+SKU0305,Snacks,B,Supplier3
+SKU0306,Beverage,D,Supplier3
+SKU0307,Dairy,B,Supplier2
+SKU0308,Beverage,D,Supplier2
+SKU0309,Beverage,B,Supplier3
+SKU0310,Dairy,D,Supplier2
+SKU0311,Personal Care,D,Supplier1
+SKU0312,Snacks,A,Supplier2
+SKU0313,Food,A,Supplier2
+SKU0314,Household,D,Supplier1
+SKU0315,Food,D,Supplier1
+SKU0316,Household,C,Supplier3
+SKU0317,Food,B,Supplier3
+SKU0318,Dairy,C,Supplier1
+SKU0319,Snacks,A,Supplier1
+SKU0320,Household,A,Supplier3
+SKU0321,Personal Care,A,Supplier2
+SKU0322,Food,A,Supplier1
+SKU0323,Food,D,Supplier3
+SKU0324,Household,A,Supplier2
+SKU0325,Personal Care,D,Supplier1
+SKU0326,Personal Care,D,Supplier2
+SKU0327,Dairy,A,Supplier3
+SKU0328,Dairy,A,Supplier1
+SKU0329,Dairy,B,Supplier2
+SKU0330,Dairy,C,Supplier1
+SKU0331,Dairy,A,Supplier2
+SKU0332,Dairy,B,Supplier3
+SKU0333,Snacks,B,Supplier3
+SKU0334,Personal Care,C,Supplier1
+SKU0335,Dairy,D,Supplier2
+SKU0336,Personal Care,A,Supplier1
+SKU0337,Personal Care,C,Supplier1
+SKU0338,Beverage,A,Supplier2
+SKU0339,Snacks,B,Supplier2
+SKU0340,Dairy,B,Supplier2
+SKU0341,Food,D,Supplier3
+SKU0342,Household,B,Supplier1
+SKU0343,Food,B,Supplier1
+SKU0344,Snacks,C,Supplier3
+SKU0345,Household,A,Supplier2
+SKU0346,Snacks,A,Supplier3
+SKU0347,Personal Care,C,Supplier3
+SKU0348,Household,D,Supplier3
+SKU0349,Personal Care,A,Supplier1
+SKU0350,Food,B,Supplier3
+SKU0351,Food,A,Supplier1
+SKU0352,Household,B,Supplier1
+SKU0353,Household,D,Supplier1
+SKU0354,Dairy,C,Supplier2
+SKU0355,Snacks,A,Supplier1
+SKU0356,Dairy,C,Supplier1
+SKU0357,Snacks,A,Supplier2
+SKU0358,Dairy,B,Supplier1
+SKU0359,Personal Care,C,Supplier3
+SKU0360,Household,A,Supplier3
+SKU0361,Food,B,Supplier1
+SKU0362,Snacks,C,Supplier2
+SKU0363,Snacks,C,Supplier3
+SKU0364,Food,A,Supplier2
+SKU0365,Dairy,A,Supplier2
+SKU0366,Snacks,A,Supplier3
+SKU0367,Personal Care,B,Supplier2
+SKU0368,Household,A,Supplier3
+SKU0369,Food,C,Supplier2
+SKU0370,Household,C,Supplier3
+SKU0371,Snacks,A,Supplier1
+SKU0372,Snacks,A,Supplier3
+SKU0373,Food,D,Supplier3
+SKU0374,Personal Care,C,Supplier3
+SKU0375,Beverage,B,Supplier3
+SKU0376,Food,D,Supplier2
+SKU0377,Beverage,A,Supplier1
+SKU0378,Dairy,A,Supplier3
+SKU0379,Beverage,C,Supplier2
+SKU0380,Personal Care,A,Supplier1
+SKU0381,Dairy,B,Supplier1
+SKU0382,Beverage,C,Supplier1
+SKU0383,Dairy,A,Supplier1
+SKU0384,Beverage,C,Supplier3
+SKU0385,Personal Care,A,Supplier3
+SKU0386,Beverage,A,Supplier2
+SKU0387,Beverage,A,Supplier2
+SKU0388,Beverage,B,Supplier2
+SKU0389,Food,B,Supplier1
+SKU0390,Food,C,Supplier1
+SKU0391,Food,A,Supplier3
+SKU0392,Personal Care,A,Supplier1
+SKU0393,Dairy,B,Supplier1
+SKU0394,Snacks,A,Supplier1
+SKU0395,Beverage,B,Supplier2
+SKU0396,Beverage,A,Supplier2
+SKU0397,Personal Care,C,Supplier3
+SKU0398,Beverage,A,Supplier1
+SKU0399,Food,A,Supplier1
+SKU0400,Snacks,D,Supplier3
+SKU0401,Household,B,Supplier1
+SKU0402,Beverage,A,Supplier1
+SKU0403,Food,A,Supplier2
+SKU0404,Household,D,Supplier3
+SKU0405,Snacks,D,Supplier3
+SKU0406,Household,B,Supplier3
+SKU0407,Food,D,Supplier3
+SKU0408,Dairy,C,Supplier2
+SKU0409,Dairy,D,Supplier2
+SKU0410,Household,C,Supplier1
+SKU0411,Personal Care,B,Supplier1
+SKU0412,Household,B,Supplier1
+SKU0413,Beverage,B,Supplier1
+SKU0414,Beverage,B,Supplier2
+SKU0415,Dairy,B,Supplier3
+SKU0416,Personal Care,C,Supplier2
+SKU0417,Food,C,Supplier1
+SKU0418,Beverage,B,Supplier2
+SKU0419,Dairy,D,Supplier3
+SKU0420,Snacks,A,Supplier3
+SKU0421,Dairy,B,Supplier2
+SKU0422,Beverage,D,Supplier2
+SKU0423,Beverage,A,Supplier2
+SKU0424,Dairy,B,Supplier1
+SKU0425,Food,B,Supplier2
+SKU0426,Household,C,Supplier2
+SKU0427,Beverage,A,Supplier2
+SKU0428,Dairy,A,Supplier3
+SKU0429,Dairy,D,Supplier3
+SKU0430,Personal Care,C,Supplier1
+SKU0431,Household,C,Supplier1
+SKU0432,Snacks,C,Supplier3
+SKU0433,Food,C,Supplier3
+SKU0434,Snacks,A,Supplier3
+SKU0435,Household,A,Supplier2
+SKU0436,Household,B,Supplier2
+SKU0437,Household,B,Supplier3
+SKU0438,Snacks,C,Supplier2
+SKU0439,Household,C,Supplier2
+SKU0440,Dairy,C,Supplier1
+SKU0441,Snacks,B,Supplier3
+SKU0442,Household,D,Supplier3
+SKU0443,Dairy,D,Supplier2
+SKU0444,Personal Care,B,Supplier3
+SKU0445,Household,B,Supplier1
+SKU0446,Snacks,B,Supplier1
+SKU0447,Beverage,B,Supplier1
+SKU0448,Household,B,Supplier3
+SKU0449,Beverage,B,Supplier3
+SKU0450,Dairy,C,Supplier3
+SKU0451,Personal Care,C,Supplier3
+SKU0452,Food,C,Supplier3
+SKU0453,Personal Care,C,Supplier1
+SKU0454,Household,B,Supplier2
+SKU0455,Beverage,D,Supplier1
+SKU0456,Beverage,A,Supplier3
+SKU0457,Snacks,B,Supplier1
+SKU0458,Beverage,A,Supplier3
+SKU0459,Snacks,D,Supplier3
+SKU0460,Dairy,C,Supplier1
+SKU0461,Food,D,Supplier3
+SKU0462,Household,B,Supplier2
+SKU0463,Snacks,C,Supplier3
+SKU0464,Food,B,Supplier2
+SKU0465,Beverage,C,Supplier2
+SKU0466,Beverage,A,Supplier3
+SKU0467,Food,A,Supplier1
+SKU0468,Beverage,A,Supplier2
+SKU0469,Dairy,D,Supplier1
+SKU0470,Dairy,B,Supplier2
+SKU0471,Food,D,Supplier3
+SKU0472,Snacks,A,Supplier3
+SKU0473,Snacks,B,Supplier2
+SKU0474,Food,A,Supplier3
+SKU0475,Snacks,D,Supplier2
+SKU0476,Snacks,D,Supplier3
+SKU0477,Dairy,D,Supplier1
+SKU0478,Snacks,A,Supplier3
+SKU0479,Personal Care,B,Supplier1
+SKU0480,Household,B,Supplier3
+SKU0481,Beverage,A,Supplier1
+SKU0482,Personal Care,B,Supplier3
+SKU0483,Snacks,A,Supplier1
+SKU0484,Dairy,B,Supplier2
+SKU0485,Food,C,Supplier2
+SKU0486,Snacks,C,Supplier1
+SKU0487,Dairy,D,Supplier3
+SKU0488,Household,C,Supplier1
+SKU0489,Snacks,C,Supplier3
+SKU0490,Food,C,Supplier2
+SKU0491,Dairy,A,Supplier3
+SKU0492,Dairy,C,Supplier2
+SKU0493,Dairy,C,Supplier3
+SKU0494,Household,D,Supplier3
+SKU0495,Snacks,C,Supplier3
+SKU0496,Household,C,Supplier1
+SKU0497,Beverage,B,Supplier1
+SKU0498,Beverage,D,Supplier2
+SKU0499,Snacks,D,Supplier2
+SKU0500,Household,D,Supplier1
